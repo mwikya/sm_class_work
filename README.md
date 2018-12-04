@@ -1,1 +1,1 @@
-# sm_class_work
+# Simulation & modelling my homework solutions
