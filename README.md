@@ -1,1 +1,1 @@
-# Simulation & modelling my homework solutions
+# Simulation & modelling homework solutions
